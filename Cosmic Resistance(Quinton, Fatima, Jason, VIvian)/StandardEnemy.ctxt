@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StandardEnemy
+comment0.text=\n\ Standard\ enemy\ is\ the\ easiest,\ simpliest\ enemy.\ A\ simple\ grunt.\ \n\ \n\ @author\ (Quinton\ Mak)\ \n\ @version\ 17\ June\ 2021\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=multiplier
+comment2.target=StandardEnemy(int)
+comment2.text=\n\ Constructor\ for\ standard\ enemy\n
+numComments=3

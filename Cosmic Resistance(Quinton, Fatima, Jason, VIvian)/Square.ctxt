@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ A\ square\r\n\ \r\n\ @author\ Quinton\ Mak\r\n\ @version\ June\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Square\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=sideLength\ imageName
+comment2.target=Square(int,\ java.lang.String)
+comment2.text=\r\n\ Makes\ a\ square\ \r\n\ @param\ sideLength\ the\ sideLength\ of\ the\ square\ in\ pixels\ (>\=\ 0)\r\n\ @param\ imageName\ the\ image\ inside\ the\ square\r\n
+comment3.params=sideLength\ fill\ background
+comment3.target=Square(int,\ boolean,\ boolean)
+comment3.text=\r\n\ Makes\ a\ square\ \r\n\ @param\ sideLength\ the\ sideLength\ of\ the\ square\ in\ pixels\ (>\=\ 0)\r\n\ @param\ fill\ whether\ to\ fill\ the\ square\ of\ not\r\n\ @param\ background\ whether\ to\ use\ the\ background\ color\ or\ not\r\n
+comment4.params=sideLength\ fill\ test
+comment4.target=Square(int,\ boolean,\ int)
+comment4.text=\r\n\ Makes\ a\ square\ \r\n\ @param\ sideLength\ the\ sideLength\ of\ the\ square\ in\ pixels\ (>\=\ 0)\r\n\ @param\ fill\ whether\ to\ fill\ the\ square\ or\ not\r\n\ @param\ test\ 0\ or\ 1\ to\ determine\ which\ color\ to\ use\r\n
+numComments=5

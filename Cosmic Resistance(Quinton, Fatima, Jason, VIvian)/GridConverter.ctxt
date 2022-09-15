@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GridConverter
+comment0.text=\r\n\ A\ collection\ of\ methods\ allowing\ for\ the\ conversion\ between\ grid\ coordinates\ (the\ index\ "coordinates"\ of\ an\ object\ in\ the\ 2d\ array,\ representing\ which\ square\ the\ object\ is\ in)\ \r\n\ and\ world\ coordinates\ (the\ coordinates\ of\ said\ object\ in\ the\ world,\ in\ pixels)\r\n\r\n\ @author\ Quinton\ Mak\r\n\ @version\ June\ 2021\r\n
+comment1.params=xGrid\ yGrid
+comment1.target=int[]\ gridToWorld(int,\ int)
+comment1.text=\r\n\ Converts\ between\ grid\ coordinates\ to\ world\ coordinates,\ assuming\ the\ location\ of\ the\ origin\ is\ retained\r\n\ \r\n\ @param\ xGrid\ the\ first\ index\ of\ the\ object\ in\ the\ 2d\ grid\ array\r\n\ @param\ yGrid\ the\ second\ index\ of\ the\ object\ in\ the\ 2d\ grid\ array\r\n\ @returns\ The\ coordinates\ in\ the\ world\ as\ an\ array\ {x,\ y}\r\n
+comment2.params=xWorld\ yWorld
+comment2.target=int[]\ worldToGrid(int,\ int)
+comment2.text=\r\n\ Converts\ between\ world\ coordinates\ to\ grid\ coordinates,\ assuming\ the\ location\ of\ the\ origin\ is\ retained\r\n\ \r\n\ @param\ xWorld\ the\ x\ coordinate\ of\ the\ object\ in\ the\ world\r\n\ @param\ yWorld\ the\ x\ coordinate\ of\ the\ object\ in\ the\ world\r\n\ @returns\ The\ coordinates\ in\ the\ grid\ as\ an\ array\ {x-index,\ y-index}\r\n
+comment3.params=xWorld\ yWorld
+comment3.target=int[]\ worldToSquareWorld(int,\ int)
+comment3.text=\r\n\ Converts\ world\ coordinates\ to\ the\ coordinatees\ of\ the\ nearest\ square\r\n
+numComments=4

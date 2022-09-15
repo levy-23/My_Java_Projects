@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\n\ A\ bullet\ can\ only\ be\ fired\ by\ a\ robber\ and\ kills\ Officers\ if\ within\ one\ pixel.\n\ \n\ @author\ (Fatima\ Yahya)\ \n\ @version\ (April\ 2021)\n
+comment1.params=rotation
+comment1.target=Bullet(int)
+comment1.text=\n\ Basic\ Constructor\ to\ initialise\ variables\ when\ bullet\ is\ created.\n\ @param\ rotation\ \ Thw\ direction\ in\ which\ the\ bullet\ should\ travel\ in\n
+comment2.params=
+comment2.target=Bullet()
+comment2.text=\n\ Basic\ Constructor\ to\ initialise\ variables\ when\ bullet\ is\ created.\n\ The\ bullet\ travels\ in\ the\ direction\ it\ is\ facing\n\ \n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=boolean\ atWorldEdge()
+comment4.text=\n\ Handy\ method\ that\ checks\ if\ this\ object\ is\ at\ the\ edge\n\ of\ the\ World\n\ @\ Author\ (Jordan\ Cohen)\n\ @return\ boolean\ \ true\ if\ at\ or\ past\ the\ edge\ of\ the\ World,\ otherwise\ false\n
+comment5.params=
+comment5.target=void\ checkIfOfficerThenKill()
+comment5.text=\n\ Checks\ to\ see\ if\ bullet\ is\ near\ an\ officer\ and\ if\ so\ shoots\ and\ eventually\ kills\ according\ to\ the\ health\ of\ the\ officer\n
+numComments=6

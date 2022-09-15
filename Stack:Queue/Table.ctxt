@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Table
+comment0.text=\n\ This\ is\ a\ resource\ turned\ into\ an\ assignment.\ First\ of\ all,\ thanks\ to\ the\ original\ \n\ author\:\ Michael\ Berry,\ 2009\n\ \n\ \n\ @author\ Jordan\ Cohen\ (modified)\n\ @version\ 2019\n
+comment1.params=
+comment1.target=Table()
+comment1.text=\n\ Create\ a\ new\ table\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ If\ the\ deck\ is\ clicked\ on,\ then\ draw\ a\ card\ from\ it\ (unless\ it's\ empty.)\n
+comment3.params=
+comment3.target=void\ reset()
+comment3.text=\n\ Fill\ the\ deck\ and\ get\ rid\ of\ cards\ on\ the\ table.\n
+numComments=4

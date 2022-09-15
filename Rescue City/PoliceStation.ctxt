@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PoliceStation
+comment0.text=\n\ The\ police\ station\ holds\ a\ set\ number\ of\ police\ cars,\ each\ parked\ over\ their\ assigned\ \n\ spots.\ They\ leave\ their\ spots\ when\ there\ is\ a\ new\ robbery\ and\ the\ front\ of\ their\ \n\ station\ is\ free.\ When\ cop\ cars\ return\ back\ to\ the\ station,\ they\ re-occupy\ their\ \n\ parking\ spots.\n\ \n\ @author\ (Quinton\ Mak,\ Fatima\ Yahya,\ Levent\ Eren)\ \n\ @version\ V2\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ PoliceStation\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=maxNumPoliceCars
+comment2.target=PoliceStation(int)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\n\ Add\ car\ checker\n
+comment4.params=
+comment4.target=void\ spawnPoliceCar()
+comment4.text=\n\ Add\ police\ car\n
+comment5.params=
+comment5.target=void\ changeImage()
+comment5.text=\n\ Changes\ the\ image\ depending\ on\ the\ number\ of\ criminals\ in\ jail\ at\ the\ time\n
+comment6.params=
+comment6.target=void\ increaseNumPolicecars()
+comment6.text=\n\ Increase\ the\ number\ of\ police\ cars,\ to\ make\ sure\ balance\ is\ kept\n
+numComments=7

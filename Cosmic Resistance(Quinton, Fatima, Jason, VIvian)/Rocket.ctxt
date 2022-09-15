@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\n\ AOE\ projectile\ -\ explodes\ upon\ impact\ dealing\ damage\ to\ surounding\ enemies.\n\ \n\ @author\ (Quinton\ Mak,\ Fatima\ Yahya)\ \n\ @version\ 17\ June\ 2021\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=e\ t\ damage\ explodeRadius
+comment2.target=Rocket(Enemy,\ Tower,\ int,\ int)
+comment2.text=\n\ Rocket\ constructor\n
+comment3.params=
+comment3.target=void\ moveTowards()
+comment3.text=\n\ Moves\ towards\ enemy\ and\ checks\ if\ hit\ enemy.\ If\ so\ it\ explodes\ and\ deals\ \n\ damage\ to\ enemies\ in\ explosion\ radius,\ and\ then\ removes\ rocket\ and\ explosion.\n
+numComments=4

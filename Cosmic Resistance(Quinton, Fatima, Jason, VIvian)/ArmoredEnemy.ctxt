@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ArmoredEnemy
+comment0.text=\n\ Armored\ enemy\ is\ a\ strong,\ beefy\ enemy.\ Do\ not\ underestimate\ this\ type\ while\n\ defending.\ \n\ \n\ @author\ (Quinton\ Mak)\ \n\ @version\ 17\ June\ 2021\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=multiplier
+comment2.target=ArmoredEnemy(int)
+comment2.text=\n\ Constructor\ for\ Armored\ enermy\n
+comment3.params=damage
+comment3.target=void\ hit(int)
+comment3.text=\n\ If\ dead,\ add\ more\ money\ than\ the\ default\ enemy.\n
+numComments=4

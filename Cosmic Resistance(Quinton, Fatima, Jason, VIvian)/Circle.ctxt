@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ A\ circle\ used\ for\ shooting\ radius\ of\ towers\r\n\ \r\n\ @author\ Quinton\ mak\r\n\ @version\ (June\ 2021)\r\n
+comment1.params=radius
+comment1.target=Circle(int)
+comment1.text=\r\n\ Creates\ a\ circle\ with\ a\ radius.\ \r\n\ \r\n\ @param\ radius\ \ \ \ \ Radius\ of\ the\ circle\ \r\n
+comment2.params=radius
+comment2.target=void\ updateRadius(int)
+comment2.text=\r\n\ Updates\ the\ radius\ of\ the\ circle.\ \r\n\ \r\n\ @param\ radius\ \ \ \ \ Radius\ of\ the\ circle\ \r\n
+numComments=3

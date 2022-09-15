@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FireTruck
+comment0.text=\n\ Write\ a\ description\ of\ class\ FireTruck\ here.\n\ \n\ @author\ Quinton\ Mak\n\ @version\ 4/23/2021\n
+comment1.params=
+comment1.target=FireTruck()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ FireTruck\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ findClosestBurningHouse()
+comment4.text=\n\ Finds\ the\ closest\ burning\ house\ in\ the\ world,\ and\ sets\ it\ to\ the\ fire\ truck's\ target\n
+comment5.params=
+comment5.target=void\ putOutFire()
+comment5.text=\n\ Puts\ out\ the\ fire\ at\ a\ house\n
+numComments=6

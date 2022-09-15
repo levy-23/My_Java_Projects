@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Curb
+comment0.text=\n\ Write\ a\ description\ of\ class\ Curb\ here.\n\ \n\ @author\ Levent\ Eren\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y
+comment1.target=Curb(int,\ int)
+comment1.text=\n\ Creates\ a\ empty/colourless\ rectangle\ of\ a\ given\ width\ and\ height\n\ @param\ x\ width\ of\ given\ rectangle\n\ @param\ y\ height\ of\ given\ rectangle\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Curb\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

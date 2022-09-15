@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Justice\ for\ Pedestrians\ Against\ Rutheless\ Vehicles\ -\ by\ Levent\ Eren\n\ \n\ Credits\:\n\ Audio\ -\ (AmishRob,\ beepbeep),(Authorless\ from\ soundjay.com,\ wave),(IENBA,\ panic),(authorless\ from\ mixkit.co,\ whoosh),\ (authorless\ from\ suonoelletronico,\ whistle),(HowardV,\ crowd),(Tessa_Elief,\ traffic),(Authorless\ from\ findsounds,\ tire\ screetch)\n\ Code\ -\ (Mr\ Cohen,\ ScoreBar),(Mr\ Cohen,\ start\ up\ code)\n\ Images\ -\ (Google\ Images,\ every\ Image)\n\ \n\ This\ World\ is\ a\ dangerous\ street\ with\ many\ different\ vehicles\ zooming\ past.\ \n\ Turtles\ and\ people\ attempt\ to\ cross\ this\ street,\ however\ most\ of\ them\ are\ \n\ killed.\ For\ justice\ against\ these\ reckless\ drivers,\ upon\ crossing\ the\ street,\ \n\ each\ pedestrian\ takes\ action.\ Turtles\ go\ to\ the\ right\ side,\ entering\ the\ lab,\ \n\ and\ thus\ temporarily\ making\ every\ turtle\ a\ super\ turtle,\ as\ well\ as\ bring\ dead\ \n\ turtles\ back\ to\ life.\ These\ Super\ turtles\ scare\ off\ vehicles\ and\ force\ them\ \n\ to\ go\ back\ to\ where\ they\ came\ from.\ People\ however\ join\ together\ and\ hold\ a\ protest.\ \n\ After\ aquiring\ enough\ memebers,\ their\ movement\ is\ powerful\ enough\ for\ an\ official\ \n\ to\ blow\ a\ whistle\ and\ force\ vehicles\ to\ temporarity\ come\ to\ a\ halt.\ Each\ type\ \n\ of\ pedestrian\ can\ wake\ up\ the\ dead\ and\ have\ at\ least\ one\ vehicle\ that\ repects\ them.\n\ Ambulances\ heal\ and\ respects\ people.\ The\ lab\ heals\ turtles\ and\ eco\ friendly\ cars\ \n\ respect\ turtles.\ Car\ give\ a\ little\ warning\ honk\ to\ indicate\ that\ they\ are\ changing\ lanes.\ \n\ Additional\ to\ all\ this,\ occasionally\ a\ large\ wave\ comes\ and\ cleans\ the\ street\ \n\ of\ everything,\ vehicles,\ people,\ dead\ pedestrians.\ Only\ turtles\ can\ continue\ to\ cross\n\ since\ they\ can\ swim.\n\ \n\ Importance\ of\ Inheritence\:\n\ First\ of\ all,\ inheritence\ lowers\ the\ amount\ of\ physical\ work\ need,\ actually\ typing,\ \n\ and\ mental\ work,\ planning\ how\ to\ do\ what.\ Inhertience\ gives\ me\ a\ guidline\ and\ \n\ helps\ me\ organize\ what\ objects\ can\ do\ what\ and\ carry\ what.\ For\ example,\ promising\ \n\ that\ all\ vehicles\ have\ a\ checkHitPedestrian\ promise\ ensures\ that\ I\ know\ every\ vehicle\n\ must\ have\ one.\ Inheritence\ also\ ensures\ the\ quality\ and\ simplicity\ of\ the\ final\ product.\n\ Having\ all\ vehicles\ behave\ similarly\ (for\ example,\ drive\ along\ the\ street\ and\ react\ with\ pedestrians)\n\ and\ inherit\ method\ and\ tools\ from\ eachother\ ensure\ that\ it\ is\ clear\ to\ the\ viewer\n\ what\ that\ object\ is\ doing\ and\ what\ is\ its\ purpose.\ If\ I\ had\ to\ write\ each\ vehicle\n\ individually,\ there\ would\ be\ a\ chance\ I\ would\ not\ write\ every\ vehicle\ the\ exact\ same\ way\ contrasting\n\ to\ inheritence,\ this\ could\ lead\ to\ the\ viwers\ getting\ confused\ from\ the\ lack\ of\ \n\ identical\ behavious.\ Due\ to\ inheritence,\ the\ code\ runs\ smoothly\ and\ in\ an\ prganized\ fashion,\ ultimately\ \n\ making\ it\ easier\ for\ the\ developer,\ and\ clearer\ and\ in\ better\ quality\ for\ the\ viewer/user.\n\ \n\ \n\ @version\ March\ 2021\ \n\ @since\ March\ 2015\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawnWave()
+comment4.params=
+comment4.target=void\ spawnVehicles()
+comment5.params=
+comment5.target=void\ spawnPedestrians()
+comment6.params=inLane
+comment6.target=int\ getYPosition(int)
+comment6.text=\n\ Returns\ the\ appropriate\ y\ coordinate\ for\ a\ given\ lane\n
+comment7.params=
+comment7.target=void\ checkProtesters()
+comment8.params=
+comment8.target=void\ checkSuperTurtle()
+numComments=9

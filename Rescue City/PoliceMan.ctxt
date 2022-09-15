@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PoliceMan
+comment0.text=\n\ Upon\ arriving\ at\ active\ crime\ scene,\ police\ men\ heroically\ put\ themselves\ in\ the\ \n\ line\ of\ fire\ to\ rush\ no\ good\ robbers\ and\ arrest\ them.\ After\ arresting\ the\ robber,\ \n\ the\ cops\ hop\ back\ into\ their\ car\ to\ return\ to\ the\ station.\ If\ the\ robber\ has\ escaped,\n\ they\ hop\ back\ into\ their\ car\ and\ continue\ the\ chase\ on\ the\ road.\n\ \n\ @author\ (Levent\ Eren,\ Fatima\ Yahya)\ \n\ @version\ V4\n
+comment1.params=p
+comment1.target=PoliceMan(PoliceCar)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ PoliceMan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=boolean\ checkIfRobbersShooting()
+comment3.text=\n\ Checks\ if\ robber\ exists\ and\ if\ it\ is\ shooting\n\ \n\ @return\ boolean\ True\ if\ robber\ exists\ and\ is\ shooting,\ false\ otherwise.\n
+comment4.params=w
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment4.text=\n\ Calls\ Officer's\ added\ to\ World\ method\n
+numComments=5

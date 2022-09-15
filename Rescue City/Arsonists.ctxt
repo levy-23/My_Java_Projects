@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Arsonists
+comment0.text=\n\ Write\ a\ description\ of\ class\ Arsonists\ here.\n\ Arsonists\ walk\ to\ a\ random\ house\ on\ the\ map\ and\ set\ it\ on\ fire.\ \n\ They\ admire\ their\ work\ for\ a\ few\ seconds\ and\ then\ head\ back\ home.\ (Criminal\ Depot)\n\ \n\ @author\ (Vivian\ Luo,Fatima\ Yahya,\ Quinton\ Mak)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Arsonists()
+comment1.text=\n\ Basic\ Constructor\ for\ Arsonists,\ sets\ initial\ values\ \n\ Also\ calls\ the\ constructor\ for\ Criminals\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Arsonists\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\n\ When\ added\ to\ world,\ calls\ the\ Criminals\ added\ to\ World,\ \n\ and\ picks\ a\ random\ house\ to\ go\ to.\n\ Also\ sets\ the\ value\ for\ the\ nearest\ house.\n
+comment4.params=
+comment4.target=void\ burnHouses()
+comment4.text=\n\ Find\ the\ nearest\ house\ in\ range\ and\ sets\ it\ on\ fire\n
+numComments=5

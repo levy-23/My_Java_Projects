@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TowerOne
+comment0.text=\n\ Tower\ one\ is\ the\ simple\ turret.\ It\ shoots\ consistent\ low\ damage\ shots\ and\ is\ cheap.\n\ \n\ \n\ @author\ (Quinton\ Mak)\ \n\ @version\ 17\ June\ 2021\n
+comment1.params=
+comment1.target=TowerOne()
+comment1.text=\n\ Constructor\ for\ the\ primary\ turret.\ The\ special\ skill\ when\ maxed\ out\ is\n\ rapid\ fire\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ upgrade()
+comment3.text=\n\ Upgrades\ tower.\n\ Update's\ the\ tower's\ damage\ increase,\ since\ each\ tower\ has\ a\ unique\ damage\ increase.\n\ Upgrades\ to\ tower's\ unique\ max\ level\ ability\n
+numComments=4

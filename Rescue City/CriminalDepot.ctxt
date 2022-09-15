@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CriminalDepot
+comment0.text=\n\ Write\ a\ description\ of\ class\ CriminalDepot\ here.\n\ Home\ to\ all\ the\ criminals\ (Robbers\ and\ Arsonists)\n\ \n\ @author\ (Fatima\ Yahya)\ \n\ @version\ (April\ 2021)\n
+comment1.params=
+comment1.target=CriminalDepot()
+comment1.text=\n\ Basic\ Constructor\ for\ CriminalDepot,\ sets\ image\ and\ scales\ it.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ CriminalDepot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

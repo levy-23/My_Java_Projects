@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EcoCar
+comment0.text=\n\ Write\ a\ description\ of\ class\ EcoCar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=EcoCar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ drive()
+comment4.params=
+comment4.target=void\ checkHitPedestrian()
+comment4.text=\n\ check\ if\ I\ hit\ a\ Pedestrian,\ and\ if\ so,\ act\n\ accordingly\n
+numComments=5

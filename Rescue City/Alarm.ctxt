@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Alarm
+comment0.text=\n\ Write\ a\ description\ of\ class\ Alarm\ here.\n\ \n\ @author\ (Fatima\ Yahya)\ \n\ @version\ (April\ 2021)\n
+comment1.params=
+comment1.target=Alarm()
+comment1.text=\n\ Constructor\ for\ Alarm\ -\ sets\ sound\ and\ initial\ values\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Fire\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

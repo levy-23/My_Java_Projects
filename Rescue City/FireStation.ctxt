@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FireStation
+comment0.text=\n\ Write\ a\ description\ of\ class\ FireStation\ here.\n\ \n\ @author\ Quinton\ Mak\ \n\ @version\ 4/32/2021\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ FireStation\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=maxNumFireTrucks
+comment2.target=FireStation(int)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ spawnFiretruck()
+comment5.params=
+comment5.target=void\ changeImage()
+comment5.text=\n\ Changes\ the\ image\ depending\ on\ the\ number\ of\ fire\ trucks\ in\ the\ world\n
+comment6.params=
+comment6.target=void\ increaseNumFireTrucks()
+numComments=7

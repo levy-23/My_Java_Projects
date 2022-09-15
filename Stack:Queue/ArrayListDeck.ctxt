@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ArrayListDeck
+comment0.text=\n\ Write\ a\ description\ of\ class\ ArrayListDeck\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=colour\ jokers\ spades\ clubs\ hearts\ diamonds
+comment1.target=ArrayListDeck(Card.Colour,\ boolean,\ int,\ int,\ int,\ int)
+comment2.params=colour\ jokers
+comment2.target=ArrayListDeck(Card.Colour,\ boolean)
+comment3.params=
+comment3.target=void\ fill()
+comment3.text=\n\ Fill\ the\ deck\ with\ a\ complete\ set\ of\ cards.\ Get\ rid\ of\ any\ cards\n\ still\ in\ the\ deck.\n
+comment4.params=
+comment4.target=Card\ drawCard()
+comment4.text=\n\ Draw\ a\ card\ from\ the\ deck.\n\ @return\ the\ card\ that's\ been\ drawn,\ or\ null\ if\ no\ cards\ are\ left.\n
+comment5.params=
+comment5.target=Card\ showCard()
+comment5.text=\n\ Shows\ a\ card\ from\ the\ deck.\ Same\ as\ drawCard,\ but\ doesn't\ remove\ it.\n\ @return\ the\ card\ that's\ been\ shown,\ or\ null\ if\ no\ cards\ are\ left.\n
+comment6.params=card
+comment6.target=void\ addCard(Card)
+comment6.text=\n\ Puts\ a\ card\ into\ the\ deck.\n\ @param\ card\ the\ card\ to\ put\ in\ the\ deck.\n
+comment7.params=
+comment7.target=void\ shuffle()
+comment7.text=\n\ Shuffle\ the\ deck\n
+comment8.params=
+comment8.target=int\ getSize()
+comment8.text=\n\ Get\ the\ size\ of\ the\ deck\n\ @return\ the\ number\ of\ cards\ left\ in\ the\ deck\n
+numComments=9

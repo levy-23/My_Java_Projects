@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WelcomeWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (Fatima\ Yahya)\ \n\ @version\ (April\ 2021)\n
+comment1.params=
+comment1.target=WelcomeWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stopStartingBgm()
+comment3.text=\n\ Stops\ the\ starting\ background\ music.\ \n
+comment4.params=
+comment4.target=void\ startStartingBgm()
+comment4.text=\n\ Starts\ the\ starting\ background\ music.\ \n
+numComments=5

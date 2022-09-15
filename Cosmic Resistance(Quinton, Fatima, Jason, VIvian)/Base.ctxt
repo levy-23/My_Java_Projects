@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Base
+comment0.text=\r\n\ This\ is\ the\ Base\ class\ that\ creates\ the\ home\ base\ of\ the\ game.\ The\r\n\ base\ will\ get\ damaged\ and\ its\ animation\ will\ change\ every\ time\ \r\n\ an\ enemy\ enters.\ There\ is\ a\ Counter\ class\ that\ corresponds\ with\ \r\n\ the\ Base\ class\ to\ keep\ count\ of\ the\ number\ of\ lives\ the\ base\ has.\ \r\n\ \r\n\ Credit\ for\ images\:\ Daniel\ Stephens\ (http\://www.unknown-horizons.org/)\r\n\ \r\n\ @author\ Vivian\ Luo\r\n\ @version\ June\ 14,\ 2021\ \r\n
+comment1.params=
+comment1.target=Base()
+comment1.text=\r\n\ Creates\ a\ Base\ object.\ \r\n
+comment2.params=
+comment2.target=void\ changeImage()
+comment2.text=\r\n\ Changes\ the\ base\ image.\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Checks\ for\ animation\ change\ every\ act.\ \r\n
+comment4.params=
+comment4.target=void\ change()
+comment4.text=\r\n\ Sets\ the\ hasChange\ boolean\ to\ true.\ \ \r\n
+comment5.params=
+comment5.target=int\ getBaseCount()
+comment5.text=\r\n\ Returns\ the\ value\ of\ baseCount\ variable.\ \r\n
+numComments=6

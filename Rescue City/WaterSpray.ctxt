@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WaterSpray
+comment0.text=\n\ Write\ a\ description\ of\ class\ WaterSpray\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=WaterSpray()
+comment1.text=\n\ Constructor\ for\ WaterSpray\ -\ sets\ images\ and\ initial\ values\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ WaterSpray\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

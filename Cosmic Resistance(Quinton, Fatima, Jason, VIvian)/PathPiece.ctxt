@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PathPiece
+comment0.text=\r\n\ A\ piece\ of\ the\ path,\ enemies\ can\ use\ this\ to\ determine\ where\ to\ go\r\n\ \r\n\ @author\ Quinton\ Mak,\ Jordan\ Cohen\r\n\ @version\ June\ 2021\r\n
+comment1.params=
+comment1.target=PathPiece()
+comment2.params=next
+comment2.target=void\ setNext(PathPiece)
+comment2.text=\r\n\ @param\ next\ the\ next\ piece\ in\ the\ path\r\n
+comment3.params=
+comment3.target=int\ getMyX()
+comment4.params=
+comment4.target=int\ getMyY()
+comment5.params=
+comment5.target=PathPiece\ getNextPath()
+comment5.text=\r\n\ @return\ the\ next\ piece\ in\ the\ path\r\n
+numComments=6

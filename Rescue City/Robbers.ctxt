@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Robbers
+comment0.text=\n\ Write\ a\ description\ of\ class\ Robbers\ here.\n\ \n\ Robbers\ walk\ to\ random\ houses\ and\ wait\ for\ the\ police\ to\ show\ up.\ \n\ They\ shoot\ the\ police\ with\ bullets.\ They\ have\ a\ maximum\ of\ 5\ bullets\ per\ \n\ robber.\ Three\ bullets\ kill\ a\ policeman.\n\ \n\ @author\ (Fatima\ Yahya)\ \n\ @version\ (April\ 2021)\n
+comment1.params=
+comment1.target=Robbers()
+comment1.text=\n\ Constructor\ for\ Robbers,\ sets\ initial\ values\n\ Also\ calls\ the\ constructor\ for\ Criminals\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\n\ When\ added\ to\ world,\ calls\ the\ Criminals\ added\ to\ World,\ \n\ and\ picks\ a\ random\ house\ to\ go\ to.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Robbers\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=boolean\ getIsShooting()
+comment5.params=
+comment5.target=void\ shoot()
+comment5.text=\n\ Shoots\ the\ closest\ officer\ within\ a\ range\ of\ 100\ cells\n
+comment6.params=policeCarComing
+comment6.target=void\ setPoliceCarComing(boolean)
+comment6.text=\n\ Set\ whether\ a\ police\ car\ is\ coming\n\ @param\ policeCarComing\ whether\ a\ police\ car\ is\ coming\ towards\ the\ robber\ or\ not\n
+comment7.params=
+comment7.target=boolean\ getPoliceCarComing()
+comment7.text=\n\ Returns\ whether\ a\ police\ car\ is\ approaching\ the\ robber\n\ @return\ true\ if\ a\ police\ car\ is\ coming,\ false\ if\ not\n
+comment8.params=
+comment8.target=void\ robHouses()
+comment8.text=\n\ Find\ the\ nearest\ house\ in\ range\ and\ robs\ it\n
+numComments=9

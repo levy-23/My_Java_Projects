@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Jail
+comment0.text=\n\ Write\ a\ description\ of\ class\ Jail\ here.\n\ \n\ @author\ (Fatima\ Yahya)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Jail()
+comment1.text=\n\ Basic\ Constructor\ for\ Jail\ -\ sets\ image\ and\ initial\ value\ for\ number\ of\ people\ in\ jail\ to\ 0\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Jail\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ changeImage()
+comment3.text=\n\ Changes\ the\ image\ depending\ on\ the\ number\ of\ criminals\ in\ jail\ at\ the\ time\n
+comment4.params=
+comment4.target=int\ getNoInJail()
+comment4.text=\n\ Gets\ the\ number\ of\ criminals\ in\ jail\n\ @return\ The\ number\ of\ people\ in\ jail\n
+comment5.params=
+comment5.target=void\ increaseNumInJail()
+comment5.text=\n\ Increase\ the\ number\ of\ criminals\ in\ jail\ by\ one\n
+numComments=6

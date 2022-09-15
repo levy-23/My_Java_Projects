@@ -1,0 +1,21 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+public class LaneSpawnCheck extends Actor
+{
+    private GreenfootImage blank;
+    private Color highlight;
+    
+    public LaneSpawnCheck (){
+        blank = new GreenfootImage (80, 50);
+        
+        //highlight = new Color (255,0,0, 90);
+        //blank.setColor(highlight);
+        blank.fill();
+        setImage(blank);
+    }
+
+    public boolean vehiclePresent () {
+        return isTouching (Vehicle.class);
+    }
+    
+}

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnergyBall
+comment0.text=\n\ EnergyBall\ \n\ \n\ @author\ (Levent\ Eren)\ \n\ @version\ 17\ June\ 2021\n
+comment1.params=e\ t\ damage\ explosionradius\ slowDuration
+comment1.target=EnergyBall(Enemy,\ Tower,\ int,\ int,\ int)
+comment1.text=\n\ Energy\ ball\ constructor\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveTowards()
+comment3.text=\n\ Moves\ towards\ enemy\ and\ checks\ if\ hit\ enemy.\ If\ so\ it\ explodes\ and\ deals\ \n\ damage\ and\ slows\ enemies\ in\ explosion\ radius,\ and\ then\ removes\ energy\ ball\ and\ explosion.\n
+numComments=4

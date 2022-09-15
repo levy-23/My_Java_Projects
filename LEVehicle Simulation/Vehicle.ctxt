@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=void\ checkHitPedestrian()
+comment1.text=\n\ Abstract\ method\ declarations\:\ \n\ This\ means\ that\ all\ Vehicles\ must\ have\ a\n\ move()\ and\ checkHitPedestrian()\ method\ with\ the\ same\ signature\:\n\ E.g\:\ public\ void\ move\ ();\n\ \n\ HINT\:\n\ However,\ in\ this\ current\ implementation,\ the\ drive()\n\ method\ for\ all\ three\ subclasses\ is\ the\ same.\ Perhaps\n\ one\ of\ these\ methods\ will\ change\ if\ you\ implement\ something\n\ interesting\ that\ requires\ different\ drive\ methods.\ If\ not,\n\ it\ would\ be\ more\ efficient\ to\ actually\ write\ the\ method\n\ here,\ making\ it\ inherited\ by\ not\ abstract.\n
+comment2.params=
+comment2.target=void\ checkEdges()
+comment3.params=
+comment3.target=void\ drive()
+comment3.text=\n\ Method\ that\ deals\ with\ movement.\ Speed\ can\ be\ set\ by\ individual\ subclasses\ in\ their\ constructors\n
+comment4.params=
+comment4.target=int\ getSpeed()
+comment4.text=\ This\ is\ a\ public\ method.\ It\ will\ be\ inherited\n\ \ by\ all\ subclasses\ of\ Vehicle\ and\ will\ allow\ other\n\ \ Vehicles\ to\ attain\ this\ Vehicle's\ speed.\n\ \ \n
+comment5.params=
+comment5.target=void\ stop()
+numComments=6

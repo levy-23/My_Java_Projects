@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TowerTwo
+comment0.text=\n\ Turret\ two\ is\ an\ area\ damage\ turret.\ This\ turret\ shoots\ a\ rocket\ which\ explodes\ \n\ on\ impact\ dealing\ damage\ to\ enemies\ in\ explotion\ radius.\n\ \n\ @author\ (Quinton)\ \n\ @version\ 17\ June\ 2021\n
+comment1.params=
+comment1.target=TowerTwo()
+comment1.text=\n\ Constructor\ for\ the\ area\ damage\ turret.\ The\ special\ skill\ when\ maxed\ is\ an\ increased\n\ area\ for\ area\ damage.\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shoot()
+comment3.text=\n\ Unique\ shoot\ method.\ Shoots\ rockets\ instead\ \ of\ regular\ ammunition\n
+comment4.params=
+comment4.target=void\ upgrade()
+comment4.text=\n\ Upgrades\ tower.\n\ Update's\ the\ tower's\ damage\ increase,\ since\ each\ tower\ has\ a\ unique\ damage\ increase.\n\ Upgrades\ to\ tower's\ unique\ max\ level\ ability\n
+numComments=5

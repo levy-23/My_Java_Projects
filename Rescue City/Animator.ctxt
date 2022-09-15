@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Animator
+comment0.text=\n\ Animator\ allows\ an\ actor\ in\ the\ world\ to\ be\ animated\ through\ alternating\ between\ multiple\ images\ (sprites).\ \n\ The\ animations\ use\ acts\ and\ occurs\ at\ a\ user\ specified\ speed,\ and\ the\ user\ can\ specify\ the\ images\ used.\ \n\ \n\ @author\ Quinton\ Mak,\ Fatima\ Yahya\n\ @version\ 4/9/2021\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Animator\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=owner
+comment2.target=Animator(greenfoot.Actor)
+comment2.text=\n\ Allows\ an\ actor\ to\ be\ animated.\ The\ instance\ of\ Animator\ should\ be\ contructed\ in\ the\ owner's\ constructor.\n\ \n\ @param\ owner\ The\ object\ to\ be\ animated\n
+comment3.params=owner\ startingImage
+comment3.target=Animator(greenfoot.Actor,\ java.lang.String)
+comment3.text=\n\ Allows\ an\ actor\ to\ be\ animated.\ The\ instance\ of\ Animator\ should\ be\ contructed\ in\ the\ owner's\ constructor.\n\ \n\ @param\ owner\ The\ object\ to\ be\ animated\n\ @param\ startingImage\ The\ image\ that\ the\ actor\ starts\ as\ in\ the\ world\n
+comment4.params=images\ animateActs
+comment4.target=void\ animate(java.lang.String[],\ int)
+comment4.text=\n\ Animates\ the\ actor\ by\ cycling\ through\ an\ array\ of\ images\ (sprites)\n\ \n\ @param\ images\ Array\ of\ image\ file\ names\ that\ is\ cycled\ through\ in\ order\ to\ animate\ the\ actor.\ The\ needed\ array\ should\ be\ in\ the\ owner\ object.\ \n\ These\ image\ files\ can\ be\ obtained\ through\ extracting\ from\ a\ spritesheet\ using\ Mr.\ Cohen's\ Spritefoot\ program.\ Make\ sure\ to\ include\ file\ \n\ extensions\ (.png,\ .jpeg,\ etc)\ in\ the\ file\ names.\ \n\ @param\ animateActs\ The\ number\ of\ acts\ that\ will\ pass\ before\ switching\ to\ the\ next\ image\ (must\ be\ at\ least\ 1)\n
+comment5.params=
+comment5.target=int\ getIndexImages()
+comment5.text=\n\ Sets\ the\ index\ of\ images\ at\ which\ the\ animator\ is\ currently\ at\n\ \n\ @return\ integer\ of\ the\ index\ of\ images\ in\ the\ array\n
+comment6.params=actsPass
+comment6.target=void\ setIndexImages(int)
+comment6.text=\n\ Sets\ the\ number\ of\ acts\ passed\ to\ the\ parameter\ give,\ essentially\ resets\ the\ animator\ timer.\n\ \n\ @param\ actsPass\ \ The\ number\ of\ acts\ that\ have\ passed\ since\ the\ new\ animation\ cycle,\ 0\ to\ reset.\n
+numComments=7

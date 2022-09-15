@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Ending\ world,\ shows\ the\ user's\ final\ score\ as\ well\ as\ the\ high\ scores\r\n\ \r\n\ @author\ Quinton\ Mak\r\n\ @version\ June\ 2021\r\n
+comment1.params=score
+comment1.target=GameOver(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOver.\r\n\ \r\n\ @param\ score\ the\ user's\ score\ for\ the\ just\ finished\ game\ (not\ high\ score)\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

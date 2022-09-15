@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ValueBar
+comment0.text=\r\n\ A\ value\ bar\ class\ that\ displays\ values\ written\ in\ text\ form.\ \r\n\ \r\n\ @author\ (Fatima\ Yahya,\ Vivian\ Luo)\ \r\n\ @version\ June\ 2021\r\n
+comment1.params=title\ val
+comment1.target=ValueBar(java.lang.String,\ int)
+comment1.text=\r\n\ Creates\ a\ value\ bar\ with\ a\ title\ and\ a\ value.\ \r\n\ \r\n\ @param\ title\ \ \ \ \ Title\ of\ the\ value\ bar\ \r\n\ @param\ val\ \ \ \ \ \ \ Value\ of\ the\ value\ bar\ \r\n
+comment2.params=title
+comment2.target=ValueBar(java.lang.String)
+comment2.text=\r\n\ Creates\ a\ value\ bar\ with\ a\ title.\ \r\n\ \r\n\ @param\ title\ \ \ \ Title\ of\ the\ value\ bar\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Sets\ the\ title\ and\ value\ of\ the\ value\ bar\ every\ act.\ \r\n
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=\r\n\ Returns\ the\ value\ of\ the\ value\ bar.\ \r\n
+comment5.params=valueToAdd
+comment5.target=void\ addValue(int)
+comment5.text=\r\n\ Adds\ the\ valueToAdd\ to\ the\ value\ bar.\ \r\n\ \r\n\ @param\ valueToAdd\ \ \ \ \ Value\ to\ be\ added\ to\ the\ value\ bar.\ \r\n
+comment6.params=val
+comment6.target=void\ update(int)
+comment6.text=\r\n\ Updates\ the\ value\ of\ the\ value\ bar.\ \r\n\ \r\n\ @param\ val\ \ \ \ \ \ Value\ to\ be\ set\ to\ the\ value\ bar\ \r\n
+comment7.params=info
+comment7.target=void\ update(java.lang.String)
+comment7.text=\r\n\ Updates\ the\ title\ of\ the\ value\ bar.\ \r\n\ \r\n\ @param\ info\ \ \ \ \ Title\ to\ be\ set\ to\ the\ value\ bar\r\n
+numComments=8
